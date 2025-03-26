@@ -17,6 +17,7 @@ logging:
 #          client:
 #            RestTemplate: TRACE
 
+
 cx-flow:
   # Agreed upon shared API token
   token: xxxx
